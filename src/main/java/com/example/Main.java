@@ -14,6 +14,7 @@ public class Main {
     public static void main(String[] args) {
         Gson mygson = new Gson();
         System.out.println("Hello from my jar file");
+        System.out.println("Gene Barringer");
 
     }
 }
